@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: airbnb
+    database: airbnb
+    schema: dev
+    tables:
+     - name: bike
+     - name: weather

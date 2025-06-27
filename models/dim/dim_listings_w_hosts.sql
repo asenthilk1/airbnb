@@ -1,4 +1,4 @@
-WITH
+ dim_listings_w_hostsWITH
 l AS (
     SELECT
         *
